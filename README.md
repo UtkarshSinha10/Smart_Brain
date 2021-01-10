@@ -1,13 +1,13 @@
 <h1>Smart Brain</h1>
 <h2>Full Stack Web Application</h2>
 <p>
-<h3>Register page</h3>
+<h3>Registration page</h3>
 <img src="assets/1.png" alt="screenshot width="750"></img>
 <h3>Sign-In page</h3>
 <img src="assets/2.png" alt="screenshot width="750"></img>
 <h3>Signing in with email:"user@gmail.com" and password:"user"</h3>
 <img src="assets/4.png" alt="screenshot width="750"></img>
-<h3>user pofile page with smart brain logo, sign out button, search box for image address, counts of faces till now</h3>
+<h3>User pofile page with smart brain logo, sign out button, search box for image address, counts of faces till now</h3>
 <img src="assets/5.png" alt="screenshot width="750"></img>
 <h3>After a face is detected using Clarifai api call, increment of entry count increases</h3>
 <img src="assets/6.png" alt="screenshot width="750"></img>
